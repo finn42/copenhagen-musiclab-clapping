@@ -1,4 +1,6 @@
 # copenhagen-musiclab
 
-This repo contains clapping analysis of participants' motion data recorded during MusicLab Copenhagen Concert.
+This repo is for clapping analysis of motion data recorded during MusicLab Copenhagen Concert.
+During the MusicLab concert, audience members placed mobile phones on their chests which allowed us to collect their motion data while they are experiencing the concert. 
 
+- [clapping_motion.ipynb](copenhagen-musiclab-concert/clapping_motion.ipynb) -> Throughout the concert, 15 clappings occurred either after speeches or musical pieces or at the end of the concert. This notebook preprocesses the accelerometer data of 75 participants during these clapping sections and extracts features of clappings.
