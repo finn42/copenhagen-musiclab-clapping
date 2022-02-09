@@ -1,4 +1,4 @@
-# copenhagen-musiclab
+# copenhagen-musiclab-concert
 
 This repo is for clapping analysis of motion data recorded during MusicLab Copenhagen Concert.
 During the MusicLab concert, audience members placed mobile phones on their chests which allowed us to collect their motion data while they are experiencing the concert. 
